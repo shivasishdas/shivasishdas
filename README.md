@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" width="500" height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Trying to build exciting solutions using code.
-- 🌱 Mostly dabbling around in Java/Golang and AWS.
+- 🌱 Mostly dabbling around in Java/Go/Python and AWS.
 - 👀 On the lookout for cool OSS projects to use and work on.
 
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
