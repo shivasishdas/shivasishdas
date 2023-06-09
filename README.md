@@ -1,4 +1,4 @@
-# Hi I'm Shivasish 👋
+# Hi I'm Shiv 👋
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivasish-das-b977a965/)](https://www.linkedin.com/in/shivasish-das-b977a965/)
 [![Twitter Badge](https://img.shields.io/badge/-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bravestleo)](https://twitter.com/bravestleo)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivasish.dd@gmail.com)](mailto:shivasish.dd@gmail.com)
@@ -9,7 +9,6 @@
 
 - 🔭 Trying to build exciting solutions using code.
 - 🌱 Mostly dabbling around in Java/Go/Python and AWS.
-- 👀 On the lookout for cool OSS projects to use and work on.
 
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
@@ -33,7 +32,8 @@
 
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shivasishdas&show_icons=true&line_height=30)
+![github stats](https://github-readme-stats.vercel.app/api?username=shivasishdas&show_icons=true&line_height=20)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shivasishdas)](https://github.com/shivasishdas/github-profile-trophy)
 
 <a href="https://github.com/shivasishdas">
   <img src="https://komarev.com/ghpvc/?username=shivasishdas&style=flat-square" />
