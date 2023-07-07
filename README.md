@@ -32,7 +32,6 @@
 
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shivasishdas&show_icons=true&line_height=20)
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivasishdas)](https://github.com/shivasishdas/github-profile-trophy)
 
 <a href="https://github.com/shivasishdas">
