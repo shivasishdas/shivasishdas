@@ -1,6 +1,6 @@
 # Hi I'm Shiv 👋
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivasish-das-b977a965/)](https://www.linkedin.com/in/shivasish-das-b977a965/)
-[![Twitter Badge](https://img.shields.io/badge/-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bravestleo)](https://twitter.com/bravestleo)
+[![Twitter Badge](https://img.shields.io/badge/-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/bravestleo)](https://x.com/bravestleo)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shivasish.dd@gmail.com)](mailto:shivasish.dd@gmail.com)
 ---
 <br>
